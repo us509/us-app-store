@@ -4,6 +4,12 @@
   "about": "",
   "contact": "",
   "notice": "",
-  "categories": [],
+  "categories": [
+    {
+      "id": "application",
+      "name": "application",
+      "icon": "📁"
+    }
+  ],
   "apps": []
 }
