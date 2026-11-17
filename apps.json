@@ -9,6 +9,11 @@
       "id": "application",
       "name": "application",
       "icon": "📁"
+    },
+    {
+      "id": "tts",
+      "name": "TTS",
+      "icon": "📁"
     }
   ],
   "apps": [
