@@ -11,5 +11,26 @@
       "icon": "📁"
     }
   ],
-  "apps": []
+  "apps": [
+    {
+      "id": "us-story-studio",
+      "name": "US Story Studio",
+      "category": "application",
+      "desc": "how to generate story image and audio automatic auto",
+      "icon": "",
+      "date": "2026-11-17",
+      "featured": false,
+      "hidden": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "url": "https:\/\/github.com\/us509\/us-app-store\/releases\/download\/us-story-studio-1-0\/us-story-studio-1-0.apk",
+          "size": 42238,
+          "date": "2026-11-17",
+          "note": "",
+          "downloads": 0
+        }
+      ]
+    }
+  ]
 }
