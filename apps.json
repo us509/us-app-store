@@ -16,5 +16,26 @@
       "icon": "📁"
     }
   ],
-  "apps": []
+  "apps": [
+    {
+      "id": "us-tts",
+      "name": "US TTS",
+      "category": "tts",
+      "desc": "US TTS is a fast, zero-delay multi-engine Text-to-Speech (TTS) router built for TalkBack, Jieshuo, and other Android screen reader users.Key Features:\n• Multi-Language Routing (90+ Languages): Assign your preferred TTS engine, voice, speed, and pitch to each language with instant Dual Mode, Mix Mode, and Single Mode switching.\n• Smart Text & Number Reading: Cleanly filters emojis and decorative symbols, reads OTPs and phone numbers digit-by-digit, supports Lakh\/Crore amounts, and expands common abbreviations.\n• Custom Dictionary & Regex Rules: Fix pronunciation for any word using simple replacements or advanced Regex rules.\n• Call Announcer: Announces incoming Phone (SIM) and WhatsApp calls with caller name or number, repeating until answered or declined.\n• Time Announcer: Speaks the time every 10, 30, or 60 minutes (in English or Urdu) with a built-in bell chime, optional date\/battery alerts, and night quiet hours.\n• Text to Audio Export: Convert any text into MP3 or WAV audio files and save them directly to your phone storage.\n• Compatibility: Works smoothly on Android 5.0 to Android 16.",
+      "icon": "",
+      "date": "2026-11-21",
+      "featured": false,
+      "hidden": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "url": "https:\/\/github.com\/us509\/mus579\/releases\/download\/build-20261121-113614\/US_TTS.apk",
+          "size": 0,
+          "date": "2026-11-21",
+          "note": "",
+          "downloads": 0
+        }
+      ]
+    }
+  ]
 }
