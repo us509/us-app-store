@@ -16,26 +16,5 @@
       "icon": "📁"
     }
   ],
-  "apps": [
-    {
-      "id": "u-s-tt-s",
-      "name": "u.s.tt.s",
-      "category": "tts",
-      "desc": "simple super fast easy TTS",
-      "icon": "",
-      "date": "2026-11-17",
-      "featured": false,
-      "hidden": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "url": "https:\/\/github.com\/us509\/us-app-store\/releases\/download\/u-s-tt-s-1-0\/u-s-tt-s-1-0.apk",
-          "size": 114936,
-          "date": "2026-11-17",
-          "note": "",
-          "downloads": 0
-        }
-      ]
-    }
-  ]
+  "apps": []
 }
